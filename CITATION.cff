@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or method, please cite the paper below."
+title: "AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering"
+authors:
+  - family-names: Kamthan
+    given-names: Ansh
+    email: ak14164@nyu.edu
+repository-code: "https://github.com/Killer1GhosT/adaptive-budgeted-rag"
+license: MIT
+preferred-citation:
+  type: article
+  title: "AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering"
+  authors:
+    - family-names: Kamthan
+      given-names: Ansh
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2606.29090"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2606.29090"

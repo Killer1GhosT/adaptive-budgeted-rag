@@ -1,0 +1,23 @@
+# Core ML
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=3.0
+accelerate>=0.30
+
+# Retrieval
+rank-bm25>=0.2.2
+faiss-cpu>=1.8.0        # use faiss-gpu only if you know your CUDA matches; cpu is fine here
+
+# Data
+datasets==2.21.0      # pinned: 4.x dropped script-based loaders that hotpot_qa needs
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Generation backends
+# local Llama runs via transformers above; for the API path:
+anthropic>=0.30
+
+# Plots + report
+matplotlib>=3.7
+tqdm>=4.66

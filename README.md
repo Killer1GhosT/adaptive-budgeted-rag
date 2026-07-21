@@ -1,7 +1,7 @@
 # AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation
 
 Training-free, backbone-agnostic RAG that decides *how much* to retrieve per
-question — generate, estimate confidence from three signals, retrieve more only
+question - generate, estimate confidence from three signals, retrieve more only
 if unsure, stop when confident or when the budget runs out.
 
 📄 **Paper:** [arXiv:2606.29090](https://arxiv.org/abs/2606.29090) (cs.CL, cross-listed cs.IR / cs.AI) · journal version in submission

@@ -1,0 +1,200 @@
+{"qid": "tc_49", "pred": "Exile", "conf": 0.7658343888993985}
+{"qid": "tc_56", "pred": "Breast cancer.", "conf": 0.7635443851212048}
+{"qid": "tc_106", "pred": "Vanessa Redgrave was crowned Miss Greenwich Village in 1942.", "conf": 0.7621007437565059}
+{"qid": "tc_137", "pred": "Unknown\n\nThe evidence provided does not mention an autobiography written by Michael Jackson in 1988.", "conf": 0.2940962356376392}
+{"qid": "tc_217", "pred": "Mount Kilimanjaro", "conf": 0.7730023184441417}
+{"qid": "tc_219", "pred": "The flag of Libya is not a plain rectangle of a single color. It is a triband design with red, black, and green colors, with a white crescent and star on the black central band.", "conf": 0.5367647633349071}
+{"qid": "tc_241", "pred": "Niger", "conf": 0.7661210592268426}
+{"qid": "tc_261", "pred": "My Fair Lady (1956)", "conf": 0.5268772067593439}
+{"qid": "tc_267", "pred": "Adolf Hitler", "conf": 0.5361150679304656}
+{"qid": "tc_276", "pred": "Richard Marx", "conf": 0.7649672636540465}
+{"qid": "tc_280", "pred": "John Ford", "conf": 0.7619240862888194}
+{"qid": "tc_282", "pred": "Pink Floyd", "conf": 0.7638509237392901}
+{"qid": "tc_298", "pred": "Romania", "conf": 0.757475962647266}
+{"qid": "tc_304", "pred": "Wild Palms", "conf": 0.7604684802523872}
+{"qid": "tc_316", "pred": "Fiddler on the Roof (1964)", "conf": 0.7643566577038732}
+{"qid": "tc_349", "pred": "Mutiny on the \"Bounty\"", "conf": 0.7754675134228586}
+{"qid": "tc_379", "pred": "Persons", "conf": 0.7737664219447675}
+{"qid": "tc_397", "pred": "A Boojum.", "conf": 0.7746399375418075}
+{"qid": "tc_455", "pred": "Dangerous Minds", "conf": 0.771015692283667}
+{"qid": "tc_510", "pred": "Rudolph", "conf": 0.7749729840044568}
+{"qid": "tc_515", "pred": "Based on the evidence provided, Art Garfunkel completed coursework toward a doctorate in mathematics education, but there is no indication that he failed to qualify or that he trained for a profession he didn't complete.\n\nThe evidence does not contain information about Art Garfunkel training for a profession he didn", "conf": 0.3023793456072591}
+{"qid": "tc_517", "pred": "Rudolf Hess", "conf": 0.5508079899306476}
+{"qid": "tc_538", "pred": "J. G. Ballard wrote the novel Empire of the Sun in 1984.", "conf": 0.7676598620925709}
+{"qid": "tc_540", "pred": "Japan", "conf": 0.7694376293237518}
+{"qid": "tc_543", "pred": "Basketball", "conf": 0.5372629896637215}
+{"qid": "tc_559", "pred": "\"Stars on 45 Medley\"", "conf": 0.7725428320230096}
+{"qid": "tc_561", "pred": "Vancouver, British Columbia (connects to North Shore municipalities)", "conf": 0.30461649479690484}
+{"qid": "tc_564", "pred": "The Kentuckian (1955)", "conf": 0.7714776974188254}
+{"qid": "tc_586", "pred": "Coventry, Warwickshire", "conf": 0.542540327540963}
+{"qid": "tc_604", "pred": "The three primordial Cyclopes, sons of Uranus and Gaia, brothers of the Titans. They were one-eyed giants who fashioned lightning bolts for Zeus.", "conf": 0.307562485533633}
+{"qid": "tc_626", "pred": "Jelly Roll Morton", "conf": 0.7698399353914973}
+{"qid": "tc_635", "pred": "Peru, particularly in the highlands of Ayacucho Region.", "conf": 0.292401076109122}
+{"qid": "tc_653", "pred": "27 years old.", "conf": 0.7677457238250323}
+{"qid": "tc_657", "pred": "Unknown\n\nThe evidence states that Thrust2 broke the land speed record on 4 October 1983 (not 1990), and it was driven by Richard Noble, who is identified as British. However, the question asks about 1990, which contradicts the documented date of 1983", "conf": 0.3068131414650358}
+{"qid": "tc_664", "pred": "Virginia", "conf": 0.7667534689840114}
+{"qid": "tc_665", "pred": "The Marshall Plan.", "conf": 0.5356074182072538}
+{"qid": "tc_672", "pred": "The Crow", "conf": 0.7693634423683055}
+{"qid": "tc_678", "pred": "The Staple Singers", "conf": 0.7618046929427595}
+{"qid": "tc_687", "pred": "MC Hammer", "conf": 0.7730470800372755}
+{"qid": "tc_704", "pred": "Angola", "conf": 0.7763520291680457}
+{"qid": "tc_715", "pred": "\"Love Hangover\"", "conf": 0.5356798248558929}
+{"qid": "tc_719", "pred": "Dark Blood (1993)", "conf": 0.7844013866566701}
+{"qid": "tc_723", "pred": "David Hockney", "conf": 0.7726505690967236}
+{"qid": "tc_725", "pred": "Colmcille", "conf": 0.7654309724024995}
+{"qid": "tc_731", "pred": "Chicago for 22 years (not 21).\n\nAccording to the evidence, Richard Michael Daley served as the 54th Mayor of Chicago from 1989 to 2011, which is 22 years, making him the longest-serving Chicago mayor.", "conf": 0.2995716126811124}
+{"qid": "tc_759", "pred": "Unknown\n\nThe evidence provided does not specify which movie contains the quote \"I want to be alone.\"", "conf": 0.7709953410799466}
+{"qid": "tc_783", "pred": "Cartoons published in the Daily Express.", "conf": 0.758718710763913}
+{"qid": "tc_812", "pred": "Unknown\n\nThe evidence provided does not contain information about who was the defending champion when Martina Navratilova first won Wimbledon singles.", "conf": 0.7721103962585086}
+{"qid": "tc_827", "pred": "Based on the evidence provided, the first US-born winner of golf's British Open (The Open Championship) was **Walter Hagen in 1922**.\n\nThe evidence states: \"Jones was one of six Americans who won The Open between the First and Second World Wars, the first of whom had been Walter", "conf": 0.3080672724550027}
+{"qid": "tc_847", "pred": "Famous Players-Lasky Corporation", "conf": 0.7666224918859005}
+{"qid": "tc_881", "pred": "Jasper Conran", "conf": 0.7760803417789669}
+{"qid": "tc_888", "pred": "Al Jardine was not the youngest. Based on the evidence provided, the original lineup consisted of brothers Brian, Dennis, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine, but the evidence does not specify which brother was the youngest.\n\nUnknown.", "conf": 0.2975732800473294}
+{"qid": "tc_905", "pred": "Richard Dawson", "conf": 0.7676664089726511}
+{"qid": "tc_938", "pred": "A large male bear named Ben.", "conf": 0.7660764465380224}
+{"qid": "tc_945", "pred": "All in the Family", "conf": 0.7733292223974031}
+{"qid": "tc_954", "pred": "July 21, 1969", "conf": 0.7581218676477885}
+{"qid": "tc_955", "pred": "Unknown\n\nThe evidence provided contains information about Bandar Seri Begawan (the capital of Brunei) but does not mention anything about an international airport there or specify which country it is in.", "conf": 0.3015958756760716}
+{"qid": "tc_962", "pred": "Photographer and filmmaker.", "conf": 0.7602974294578724}
+{"qid": "tc_1007", "pred": "Kiefer Sutherland (born December 21, 1966) was born first. Christian Slater was born August 18, 1969.", "conf": 0.3074838396467967}
+{"qid": "tc_1008", "pred": "8 Grand Slam titles", "conf": 0.5355842998727101}
+{"qid": "tc_1009", "pred": "Ty Cobb, an MLB outfielder.", "conf": 0.5278393517990002}
+{"qid": "tc_1020", "pred": "Unknown\n\nThe evidence describes Pete Townshend of The Who smashing his guitar at Monterey Pop Festival in 1967, but does not mention anyone setting fire to a guitar at that event.", "conf": 0.5331327055285967}
+{"qid": "tc_1023", "pred": "Perry Mason's secretary.", "conf": 0.7872563620413073}
+{"qid": "tc_1028", "pred": "Based on the evidence provided:\n\n- **\"Sweet and Innocent\"** was first recorded by **Roy Orbison** in 1958, and later covered by **Donny Osmond** in 1970.\n\n- **\"Too Young\"** was a song by **Nat King", "conf": 0.299606811641367}
+{"qid": "tc_1029", "pred": "Unknown\n\nThe evidence does not specify who is featured on \"Can't Nobody Hold Me Down.\" It only states that this was Puff Daddy's debut single that peaked at number one on the Billboard Hot 100.", "conf": 0.31289097452620623}
+{"qid": "tc_1068", "pred": "Based on the evidence, Edmund Hillary worked as a beekeeper before taking up mountain climbing. The evidence states: \"With his brother Rex, Hillary became a beekeeper, a summer occupation that allowed him to pursue climbing in the winter.\"", "conf": 0.3107133102086933}
+{"qid": "tc_1069", "pred": "Massachusetts", "conf": 0.764035147906093}
+{"qid": "tc_1070", "pred": "Libya", "conf": 0.7754607924894436}
+{"qid": "tc_1098", "pred": "Unknown\n\nThe evidence states that Beloved was released in 1998, not 1999. Additionally, while both Oprah Winfrey and Danny Glover appeared in both films, the evidence does not indicate that either actor's first movie since The Color Purple was Beloved.", "conf": 0.3072556468635286}
+{"qid": "tc_1114", "pred": "Leonard Nimoy directed Three Men and a Baby, but he is not identified as a Star Trek star in the evidence provided. The evidence only states he directed the film; it does not confirm he was a Star Trek actor.\n\nUnknown", "conf": 0.2944389129748507}
+{"qid": "tc_1115", "pred": "Paul Rudd appeared in The Object of My Affection. He is known for playing Mike Hannigan on the NBC sitcom Friends.", "conf": 0.30262596475537257}
+{"qid": "tc_1120", "pred": "Tinker Bell", "conf": 0.7596763966050175}
+{"qid": "tc_1123", "pred": "Nixon", "conf": 0.5383858030942942}
+{"qid": "tc_1124", "pred": "Shine (1996)", "conf": 0.7732720598927036}
+{"qid": "tc_1131", "pred": "Alien (1979)", "conf": 0.7726977359302826}
+{"qid": "tc_1152", "pred": "King George III", "conf": 0.7821264851439894}
+{"qid": "tc_1156", "pred": "Ingrid Bergman", "conf": 0.7771847781448323}
+{"qid": "tc_1176", "pred": "The Full Monty (1997)", "conf": 0.7745745541645525}
+{"qid": "tc_1179", "pred": "Joan Crawford's career revived in What Ever Happened to Baby Jane?.", "conf": 0.3033587384858633}
+{"qid": "tc_1181", "pred": "James Stewart", "conf": 0.5376471074390755}
+{"qid": "tc_1183", "pred": "Fred Astaire", "conf": 0.7603045384483852}
+{"qid": "tc_1189", "pred": "The evidence does not provide a specific name for the brothel. It is referred to as being in fictional Gilbert, Texas, and operated by Miss Mona Stangley, but no formal name for the establishment is given.", "conf": 0.30516744688996505}
+{"qid": "tc_1210", "pred": "Peter O'Toole", "conf": 0.7627920529232427}
+{"qid": "tc_1243", "pred": "Joely Richardson is the daughter of Vanessa Redgrave.", "conf": 0.7790127299851322}
+{"qid": "tc_1254", "pred": "Belgium", "conf": 0.7659500674530325}
+{"qid": "tc_1284", "pred": "Unknown\n\nThe evidence indicates Hitler died on 30 April 1945, but accounts differ on the exact cause of death. Some sources mention he used both cyanide and gunshot, while others suggest poison only or gunshot alone. Contemporary historians have rejected these accounts as unreliable, so the precise method", "conf": 0.3045596075210549}
+{"qid": "tc_1313", "pred": "Colorado River", "conf": 0.7756367060187893}
+{"qid": "tc_1321", "pred": "The Ryder Cup golf tournament was first held at Worcester Country Club in 1927.", "conf": 0.5333925264211898}
+{"qid": "tc_1324", "pred": "Unknown\n\nThe evidence states that Woody Herman was born on May 16, 1913, and that he acquired the remains of Isham Jones' orchestra after Jones' retirement, eventually leading his first band which was recorded starting November 6, 1936. However, the exact age at which he founded", "conf": 0.3032056253379581}
+{"qid": "tc_1328", "pred": "Based on the evidence provided, Katharine Hepburn won her second Oscar for **Guess Who's Coming to Dinner (1967)**.\n\nThe evidence states: \"Three more Oscars came for her work in Guess Who's Coming to Dinner (1967), The Lion in Winter", "conf": 0.30219760243875754}
+{"qid": "tc_1331", "pred": "Gary Lewis & the Playboys", "conf": 0.7667225534610603}
+{"qid": "tc_1340", "pred": "New Zealand", "conf": 0.7676360358687442}
+{"qid": "tc_1341", "pred": "Yuri Andropov succeeded Brezhnev as General Secretary (not premier). Alexei Kosygin was the Soviet premier during Brezhnev's time as leader.", "conf": 0.29984411712233455}
+{"qid": "tc_1348", "pred": "The collapsible baby buggy (or lightweight baby buggy).", "conf": 0.30596306841768867}
+{"qid": "tc_1421", "pred": "Harrison Ford is his real name. He was born Harrison Ford (the \"J\" added later to avoid confusion with a silent film actor).", "conf": 0.2998826643021666}
+{"qid": "tc_1442", "pred": "Roger Maris' 61 home runs record.", "conf": 0.2924045787178854}
+{"qid": "tc_1456", "pred": "Philadelphia Phillies", "conf": 0.7655449064448205}
+{"qid": "tc_1468", "pred": "Unknown\n\nThe evidence does not specify what seed Pete Sampras was when he won the US Open. While the evidence mentions he won the 2002 US Open, it does not provide his seeding information for that tournament.", "conf": 0.31187526391865833}
+{"qid": "tc_1535", "pred": "Basketball", "conf": 0.7717150204734871}
+{"qid": "tc_1542", "pred": "Unknown\n\nThe evidence provided does not specify which team Babe Ruth was playing for when he hit his last Major League home run. The evidence only mentions that he retired in 1935 after a short stint with the Boston Braves, but does not confirm whether his last home run was with the Br", "conf": 0.3246050130038044}
+{"qid": "tc_1602", "pred": "Splendor in the Grass (1961)", "conf": 0.778268768584221}
+{"qid": "tc_1606", "pred": "Debra Winger", "conf": 0.7839882728251206}
+{"qid": "tc_1623", "pred": "Unknown\n\nThe evidence provided does not contain information about who voiced Gomez in Hanna-Barbera's Addams Family animated series. While the evidence mentions that the first animated appearance was in \"The New Scooby-Doo Movies\" in 1972 and that four of", "conf": 0.3046550917742002}
+{"qid": "tc_1635", "pred": "Unknown\n\nThe evidence does not specify that any female victim was killed off in the opening credit sequence. While the evidence mentions that \"special guest stars\" were introduced but immediately murdered during the credits, and lists several names (Lorne Greene, Georg Stanford Brown, Robert Goulet, William Shatner,", "conf": 0.3024901380680727}
+{"qid": "tc_1704", "pred": "Australian Open\n\n(Sampras won 14 Grand Slam titles: seven Wimbledon, five US Open, and two Australian Open. The evidence shows he won Australian Opens, so the Grand Slam he did not win in the 20th century was the French Open - he never won that title", "conf": 0.30754952960971715}
+{"qid": "tc_1730", "pred": "K-1 1000 m (1948, 1952, 1956), K-1 10000 m (1948, 1956), K-2 1000 m (1960)", "conf": 0.30415782909954314}
+{"qid": "tc_1735", "pred": "Unknown\n\nThe evidence provided does not specify the total number of races Mike Hawthorn won or competed in during his Formula One career.", "conf": 0.3004987420451477}
+{"qid": "tc_1773", "pred": "United States", "conf": 0.7605869977527591}
+{"qid": "tc_1798", "pred": "1905", "conf": 0.7718020736611689}
+{"qid": "tc_1816", "pred": "Frank Harris", "conf": 0.762887304998995}
+{"qid": "tc_1867", "pred": "The Red Sea.", "conf": 0.5405594765373284}
+{"qid": "tc_1914", "pred": "China (Republic of China in 1912, ending 4,000 years of Imperial rule)", "conf": 0.2969933775424931}
+{"qid": "tc_1924", "pred": "Unknown\n\nThe evidence states that Fatah was founded in 1959, not 1957, by members including Yasser Arafat, Salah Khalaf, Khalil al-Wazir, and Khaled Yashruti. There is no mention of a", "conf": 0.30514449703740953}
+{"qid": "tc_1943", "pred": "Egypt", "conf": 0.7568624590749039}
+{"qid": "tc_1944", "pred": "Myanmar (Burma)", "conf": 0.30292466352252245}
+{"qid": "tc_1945", "pred": "Chaplin", "conf": 0.7668626587875171}
+{"qid": "tc_1968", "pred": "A Saint-Tropez nightclub featuring drag entertainment.", "conf": 0.7713115623164549}
+{"qid": "tc_1977", "pred": "World War II", "conf": 0.7699234297049886}
+{"qid": "tc_2020", "pred": "About 2% of the Earth's surface.", "conf": 0.5316758258999926}
+{"qid": "tc_2090", "pred": "Unknown\n\nThe evidence does not specify who first drew Mickey Mouse or when Disney first supplied the voice for the character. While the evidence mentions that Ub Iwerks refined Disney's initial designs and that Steamboat Willie (1928) was the first sound cartoon featuring Mickey, it does not clearly state who", "conf": 0.3046111267381411}
+{"qid": "tc_2097", "pred": "Julie Andrews (Julie Andrews Edwards)", "conf": 0.530141097012974}
+{"qid": "tc_2111", "pred": "Barbara Eden", "conf": 0.7585760283476644}
+{"qid": "tc_2128", "pred": "Chess Records", "conf": 0.7626608176508824}
+{"qid": "tc_2191", "pred": "Bobby Vinton", "conf": 0.7626557592477976}
+{"qid": "tc_2202", "pred": "IS", "conf": 0.7594660112046986}
+{"qid": "tc_2208", "pred": "John F. Kennedy Stadium in Philadelphia, Pennsylvania.", "conf": 0.5319817163137842}
+{"qid": "tc_2222", "pred": "Unknown\n\nThe evidence provided does not contain information about which presidential inauguration was the most expensive in the 20th century.", "conf": 0.5316756942490701}
+{"qid": "tc_2236", "pred": "Reinhard Heydrich was the first director of the SD (Nazi Party's security service). After his tenure, Ernst Kaltenbrunner succeeded him.", "conf": 0.5463838179534122}
+{"qid": "tc_2244", "pred": "Ferdinand Marcos", "conf": 0.7660459828349113}
+{"qid": "tc_2252", "pred": "Texas", "conf": 0.7632192499295225}
+{"qid": "tc_2256", "pred": "Wisconsin", "conf": 0.7799801200801568}
+{"qid": "tc_2257", "pred": "December", "conf": 0.765601078037068}
+{"qid": "tc_2265", "pred": "His wife, Cora Henrietta Crippen.", "conf": 0.5274547121651055}
+{"qid": "tc_2270", "pred": "Unknown\n\nThe evidence provided does not specify that there were 23 track and field titles at the 1904 Olympics, nor does it provide a complete count of how many were won by Americans. While the evidence mentions several American winners in various events, it does not give a total number for all track and field", "conf": 0.2949790010096668}
+{"qid": "tc_2295", "pred": "Unknown\n\nThe evidence states that John Lennon \"was murdered three weeks after\" the release of Double Fantasy in 1980, but does not specify the city where he was murdered.", "conf": 0.2946207392878132}
+{"qid": "tc_2299", "pred": "Shot by Lee Harvey Oswald from the Texas School Book Depository.", "conf": 0.5343722338642793}
+{"qid": "tc_2300", "pred": "Batman", "conf": 0.7710835225629056}
+{"qid": "tc_2306", "pred": "Lee Harvey Oswald", "conf": 0.766838440966885}
+{"qid": "tc_2350", "pred": "Daniel Barenboim", "conf": 0.7687836663916939}
+{"qid": "tc_2359", "pred": "John Buchan", "conf": 0.7629497093835406}
+{"qid": "tc_2380", "pred": "1912 (magazine publication) / 1914 (book publication)", "conf": 0.30646978343389775}
+{"qid": "tc_2417", "pred": "Vladivostok", "conf": 0.7731407595784514}
+{"qid": "tc_2454", "pred": "Khyber Pass", "conf": 0.5352028430373375}
+{"qid": "tc_2496", "pred": "Unknown\n\nThe evidence states the French Revolution lasted from 1789-1799, but does not identify who was king during that period.", "conf": 0.291456565505405}
+{"qid": "tc_2499", "pred": "Bulgarian", "conf": 0.7677479163568535}
+{"qid": "tc_2505", "pred": "Saint Basil's Cathedral", "conf": 0.7673749373307761}
+{"qid": "tc_2506", "pred": "Finland\n\n(The evidence in [10] states \"officially the Republic of Finland\" and earlier evidence in [5] discusses \"Suomi\" as the Finnish name, which corresponds to \"Suomen Tasavalta\" in Finnish.)", "conf": 0.299537536603334}
+{"qid": "tc_2524", "pred": "The Third Crusade (1189-1192)", "conf": 0.527718709647543}
+{"qid": "tc_2544", "pred": "The Hague", "conf": 0.7730393345010648}
+{"qid": "tc_2556", "pred": "The Battle of Hastings on 14 October 1066.", "conf": 0.532411135346128}
+{"qid": "tc_2564", "pred": "The Communist Party of China (led by Mao Tse Tung).", "conf": 0.538043517640028}
+{"qid": "tc_2573", "pred": "Catherine Parr", "conf": 0.7719569620358564}
+{"qid": "tc_2580", "pred": "Switzerland", "conf": 0.5286543328062039}
+{"qid": "tc_2644", "pred": "PEOPLE (1973-1975), then The Ecology Party (1975-1985).", "conf": 0.5364298332267512}
+{"qid": "tc_2669", "pred": "First-past-the-post (FPTP)", "conf": 0.7602820076283022}
+{"qid": "tc_2677", "pred": "unknown\n\nThe evidence provided does not contain information about a word for unthinking patriotism derived from the name of one of Napoleon's admirers.", "conf": 0.7637302579377471}
+{"qid": "tc_2687", "pred": "James Watt", "conf": 0.776830075573811}
+{"qid": "tc_2728", "pred": "Silicon dioxide (silica/SiO2), sodium carbonate (soda), and calcium oxide (lime).", "conf": 0.3006887786115516}
+{"qid": "tc_2736", "pred": "A truffle is a fungus, specifically a subterranean Ascomycete fungus of the genus Tuber.", "conf": 0.5292674173339721}
+{"qid": "tc_2740", "pred": "Cellulose", "conf": 0.7726558522901232}
+{"qid": "tc_2758", "pred": "Arithmetic", "conf": 0.7751529531604622}
+{"qid": "tc_2767", "pred": "Unknown\n\nThe evidence provided discusses friction as \"a sometimes non-obvious force\" but does not explicitly define it as the force opposing relative motion between bodies in contact.", "conf": 0.3192767255687949}
+{"qid": "tc_2816", "pred": "Unknown\n\nThe evidence provided does not contain information about reptile species in the Mississippi River or China.", "conf": 0.5361803625958788}
+{"qid": "tc_2818", "pred": "Unknown\n\nThe evidence states that giant kelp (Macrocystis pyrifera) grows up to 50 meters in length, not 100 meters. No seaweed in the evidence is described as growing up to 100 meters.", "conf": 0.3048596330048271}
+{"qid": "tc_2829", "pred": "In muscle tissue of vertebrates.", "conf": 0.7705947155307792}
+{"qid": "tc_2834", "pred": "Unknown\n\nThe evidence provided does not contain information about insects with species named 'drivers', 'weavers', or 'soldiers'.", "conf": 0.5295081933886577}
+{"qid": "tc_2836", "pred": "Ethology (or Behaviourism)", "conf": 0.7742957553827892}
+{"qid": "tc_2841", "pred": "Squirrels", "conf": 0.5351145980980346}
+{"qid": "tc_2849", "pred": "Unknown\n\nThe evidence provided discusses the pancreas, heart, thigh anatomy, ovaries, and teeth, but does not contain information about structures with a central vein called a midrib. (A midrib is typically a feature of leaves, which is mentioned only briefly in passing in evidence [5] about plant", "conf": 0.3018304062679643}
+{"qid": "tc_2850", "pred": "Based on the evidence provided, the answer is **beavers**.\n\nThe evidence mentions that beavers are rodents, and rodents are known to construct structures, though the specific details about beaver lodges are not explicitly described in the given passages.", "conf": 0.3072873753999061}
+{"qid": "tc_2900", "pred": "Wisdom teeth.", "conf": 0.7682271912081603}
+{"qid": "tc_2901", "pred": "Insulin", "conf": 0.7677390018939639}
+{"qid": "tc_2914", "pred": "Four chambers (two atria and two ventricles).", "conf": 0.779001303565844}
+{"qid": "tc_2926", "pred": "Gluteus maximus", "conf": 0.77074872802352}
+{"qid": "tc_2930", "pred": "Corpus luteum", "conf": 0.29925503951236565}
+{"qid": "tc_2957", "pred": "Luteinizing hormone (LH) and follicle-stimulating hormone (FSH).", "conf": 0.7724225448828155}
+{"qid": "tc_2973", "pred": "Oxygen (20.95% by volume)", "conf": 0.5271314516480783}
+{"qid": "tc_3033", "pred": "Based on the evidence provided, **radon** is mentioned as a naturally occurring radioactive substance. The evidence states that \"Another fifty or so shorter-lived radionuclides, such as radium and radon, found on Earth, are the products of decay chains.\"\n\nHowever, the evidence does not", "conf": 0.3052915355380814}
+{"qid": "tc_3070", "pred": "Gypsum", "conf": 0.7647407567654437}
+{"qid": "tc_3120", "pred": "Neil Armstrong.", "conf": 0.5408009765813737}
+{"qid": "tc_3129", "pred": "Neptune", "conf": 0.7667077422808576}
+{"qid": "tc_3130", "pred": "The Milky Way is the galaxy containing our Solar System. It is a barred spiral galaxy with a diameter of about 100,000\u2013120,000 light-years, containing 100\u2013400 billion stars.", "conf": 0.298186525173638}
+{"qid": "tc_3155", "pred": "Unknown\n\nThe evidence provided does not specify which force is nothing more than the bending of space and time.", "conf": 0.5369991504189098}
+{"qid": "qz_68", "pred": "Helium", "conf": 0.7720852636423555}
+{"qid": "qz_76", "pred": "Unknown\n\nThe evidence provided does not describe the colour of the number 10 on the door of 10 Downing Street.", "conf": 0.5331687835386195}
+{"qid": "qz_122", "pred": "Unknown\n\nThe evidence states that \"God Save the Queen\" has many historic and extant versions with different verses added and removed over time, and that \"in general, only one verse is sung. Sometimes two verses are sung, and on rare occasions, three.\" However, it does not specify a fixed total number of", "conf": 0.5529054746004836}
+{"qid": "qz_127", "pred": "White", "conf": 0.7614267742501434}
+{"qid": "qz_147", "pred": "Nine darts.", "conf": 0.786370413308575}
+{"qid": "qz_186", "pred": "Unknown\n\nThe evidence provided does not identify the most popular natural attraction in Alaska. While several natural features are mentioned (Denali, Tongass National Forest, Alexander Archipelago), there is no information comparing their popularity.", "conf": 0.3001945036541681}
+{"qid": "qz_188", "pred": "Citric acid.", "conf": 0.7630879017385245}
+{"qid": "qz_196", "pred": "28 pieces", "conf": 0.7763401442307287}
+{"qid": "qz_204", "pred": "Unknown\n\nThe evidence provided does not contain information about an agency that provides cooperation between police forces worldwide. While Interpol is mentioned in the evidence as \"International Criminal Police Organization,\" the evidence does not state that it provides worldwide police cooperation or confirm it as the answer to this specific question.", "conf": 0.31023014089235207}
+{"qid": "qz_267", "pred": "1768-1771", "conf": 0.5429134473913736}
+{"qid": "qz_340", "pred": "Oscar Wilde", "conf": 0.7845948274341232}
+{"qid": "qz_351", "pred": "Unknown\n\nThe evidence provided does not contain information about the frequency or commonality of individual letters in the English language.", "conf": 0.30088503706293246}
+{"qid": "qz_374", "pred": "Dynamite", "conf": 0.5333357692378199}
+{"qid": "qz_385", "pred": "Unknown\n\nThe evidence does not identify the most populated city in America. While it mentions that Anchorage is where approximately half of Alaska's residents live, and identifies various other cities, it does not compare populations across all American cities to determine which is most populated.", "conf": 0.296867344781602}
+{"qid": "qz_418", "pred": "Unknown\n\nThe evidence provided does not contain information about the names of all 50 American states or which letters appear in them.", "conf": 0.2955552036052241}
+{"qid": "qz_429", "pred": "\"Wannabe\"", "conf": 0.7587791614009848}
+{"qid": "qz_438", "pred": "Unknown. The evidence shows both France and Belgium claim origin, with the dispute described as \"highly contentious,\" but no definitive conclusion is provided.", "conf": 0.3003776330444148}

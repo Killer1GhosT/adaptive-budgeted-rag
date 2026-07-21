@@ -1,0 +1,20 @@
+{
+  "n": 5,
+  "summary": {
+    "bm25": {
+      "recall@5": 100.0,
+      "recall@10": 100.0,
+      "recall@20": 100.0
+    },
+    "dense": {
+      "recall@5": 100.0,
+      "recall@10": 100.0,
+      "recall@20": 100.0
+    },
+    "hybrid": {
+      "recall@5": 100.0,
+      "recall@10": 100.0,
+      "recall@20": 100.0
+    }
+  }
+}

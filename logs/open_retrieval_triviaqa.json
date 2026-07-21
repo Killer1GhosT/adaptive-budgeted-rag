@@ -1,0 +1,30 @@
+{
+  "n": 200,
+  "corpus_size": 2582,
+  "summary": {
+    "bm25": {
+      "recall@5": 43.6,
+      "recall@10": 54.1,
+      "recall@20": 63.7,
+      "recall@50": 69.6
+    },
+    "dense": {
+      "recall@5": 66.9,
+      "recall@10": 80.6,
+      "recall@20": 89.1,
+      "recall@50": 95.3
+    },
+    "hybrid": {
+      "recall@5": 59.4,
+      "recall@10": 75.8,
+      "recall@20": 86.2,
+      "recall@50": 90.8
+    },
+    "reranked": {
+      "recall@5": 67.0,
+      "recall@10": 80.3,
+      "recall@20": 88.4,
+      "recall@50": 90.8
+    }
+  }
+}

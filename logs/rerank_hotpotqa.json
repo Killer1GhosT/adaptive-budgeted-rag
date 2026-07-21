@@ -1,0 +1,13 @@
+{
+  "n": 500,
+  "summary": {
+    "hybrid": {
+      "recall@5": 88.2,
+      "recall@10": 100.0
+    },
+    "hybrid_reranked": {
+      "recall@5": 87.5,
+      "recall@10": 100.0
+    }
+  }
+}

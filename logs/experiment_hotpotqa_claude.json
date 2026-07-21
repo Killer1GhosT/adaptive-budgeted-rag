@@ -1,0 +1,23 @@
+{
+  "n": 200,
+  "static_k": 10,
+  "static": {
+    "EM": 32.5,
+    "F1": 51.5,
+    "avg_iters": 1.0,
+    "conf_auroc": 0.705
+  },
+  "abrag": {
+    "EM": 33.0,
+    "F1": 50.7,
+    "avg_iters": 1.36,
+    "conf_auroc": 0.682
+  },
+  "confidence_analysis": {
+    "tau": 0.6,
+    "high_conf_n": 181,
+    "high_conf_EM": 36.5,
+    "low_conf_n": 19,
+    "low_conf_EM": 0.0
+  }
+}
